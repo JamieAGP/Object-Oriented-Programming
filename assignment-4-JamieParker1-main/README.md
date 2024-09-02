@@ -1,3 +1,9 @@
+Features:
+- Four-Momentum Handling: Simulates the energy and three-dimensional momentum of leptons, providing a foundation for particle physics studies.
+- Dynamic Memory Use: Efficiently manages memory for particle properties using dynamic allocation.
+- Operator Overloading: Simplifies simulations with intuitive operations for adding momenta and calculating dot products.
+- Support for Multiple Lepton Types: Includes electrons, muons, and their antiparticles, enabling diverse simulations.
+
 ### Compilation Instructions
 
 Ensure you have `g++` installed and accessible from your command line. This project uses `g++` from MSYS2.
