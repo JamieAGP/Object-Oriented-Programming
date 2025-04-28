@@ -1,1 +1,1 @@
-A collection of my coursework from the University of Manchester's Physics moduel, Object-Oriented Programming in C++.
+A collection of my coursework from the University of Manchester's Physics module, Object-Oriented Programming in C++.
